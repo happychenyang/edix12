@@ -1,6 +1,6 @@
 <?php
 
-namespace Edi;
+namespace EdiFill;
 
 /**
  * Created by PhpStorm.

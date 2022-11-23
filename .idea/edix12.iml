@@ -3,7 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/edi" isTestSource="false" packagePrefix="edi\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/EdiFill" isTestSource="false" packagePrefix="EdiFill\" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />

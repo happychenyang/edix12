@@ -1,6 +1,6 @@
 {
-    "name": "edi/x12",
-    "description": "edi-x12",
+    "name": "edifill/x12",
+    "description": "edifill-x12",
     "authors": [
         {
             "name": "Chen Yang",
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Edi\\": "src/edi"
+            "EdiFill\\": "src/EdiFill"
         }
     }
 }
