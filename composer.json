@@ -1,0 +1,19 @@
+{
+    "name": "edi/x12",
+    "description": "edi-x12",
+    "authors": [
+        {
+            "name": "Chen Yang",
+            "email": "591905592@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Edi\\": "src/edi"
+        }
+    }
+}
